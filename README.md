@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+[![StackOverflow](https://github-readme-stackoverflow-aendel.vercel.app/?userID=8097791&theme=dark&layout=compact)](https://stackoverflow.com/users/8097791/francesco-vattiato)
+
+
 <!--
 **aendel/aendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
